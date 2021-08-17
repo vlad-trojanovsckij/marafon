@@ -1,0 +1,100 @@
+body{
+    
+}
+header{
+     border-top: 1px solid #AE7C78;
+     border-bottom: 1px solid #AE7C78;
+     border: 100%;
+}
+.menu  {
+    list-style-type: none;
+    margin-left: 120px;
+    margin-right: 120px;
+   font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+   
+}
+.menu a{
+    text-decoration: none;
+    color:#AE7C78 ;
+    padding-top: 22px ;
+    padding-bottom: 22px;
+}
+.menu li{
+    display: inline;
+}
+.menu img{
+    margin-top: 0px;
+}
+article{
+    margin-right: 120px;
+}
+article h1{
+    position: absolute;
+    width: 370px;
+    height: 118px;
+    left: 120px;
+    top: 171px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+    color: #AE7C78;
+
+}
+article p{
+position: absolute;
+width: 384px;
+height: 58px;
+left: 120px;
+top: 313px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;
+}
+
+article input{
+    position: absolute;
+width: 285px;
+height: 80px;
+left: 120px;
+top: 435px;
+border: none;
+background: #D89999;
+border-radius: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.tulpan{
+    position: absolute;
+width: 386px;
+height: 404px;
+left: 527px;
+top: 230px;
+background: url(anna-tukhfatullina-food-photographer-stylist-bq6Gd7pQznU-unsplash.jpg);
+border-radius: 10px;
+padding-left: 0px;
+}
+.rose{
+position: absolute;
+width: 387px;
+height: 420px;
+left: 933px;
+top: 172px;
+right: 120px;
+background: url(taisiia-shestopal-JZDyFwGAEqY-unsplash.jpg);
+border-radius: 10px;
+}
